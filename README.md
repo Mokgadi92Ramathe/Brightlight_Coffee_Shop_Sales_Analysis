@@ -18,4 +18,9 @@
 --**CSV**: Standard data format used for data ingesting.
 
 ## Project Structure
+--Data/coffee_sales_data.csv
+--sql/queries.sql
+--excel/grapks.xlsx
+--miro/coffee_shop_miro.pfd
+--README.md
 
